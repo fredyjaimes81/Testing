@@ -14,4 +14,6 @@ while chances < limit:
             print("wrong, and the number is odd")
 else:
     print("Game over, the number was 15")
+    print("thank you")
 # solo un comentario
+# Fredy add a print: thank
